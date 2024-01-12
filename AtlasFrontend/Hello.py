@@ -33,7 +33,7 @@ st.markdown(
 
     Get started by selecting a recommendation app from the sidebar, and embark on your journey to a healthier lifestyle!
 
-    For more details about the project and to view the source code, visit the GitHub [repository](https://github.com/zakaria-narjis/Diet-Recommendation-System).
+    For more details about the project and to view the source code, visit the GitHub [repository](https://github.com/hadryyassine/Atlas-SmartEat).
     """
 )
 

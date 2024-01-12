@@ -1,5 +1,7 @@
 # Atlas SmartEat - Diet Recommendation SaaS Application
 
+<img align= "center"src="AtlasFontend/logo.png" />
+
 ## Overview
 
 Atlas SmartEat is a cutting-edge SaaS web application designed to revolutionize the way individuals approach their dietary habits. Utilizing advanced machine learning algorithms, Generative AI and a user-friendly interface, this platform offers personalized diet recommendations and assistance to promote healthier lifestyle choices.

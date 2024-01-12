@@ -1,6 +1,7 @@
 # Atlas SmartEat - Diet Recommendation SaaS Application
 
-<img align= "center"src="AtlasFontend/logo.png" />
+<div align= "center" ><img src="AtlasFrontend/logo.png" width=300 />
+</div>
 
 ## Overview
 
